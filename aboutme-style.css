@@ -1,0 +1,29 @@
+.subjects li{
+	font-family: "Arial";
+	color: green;
+	font-size: 20px;
+}
+
+.name {
+	font-family: "Tahoma";
+	color: red;
+	font-size: 40px;
+}
+
+.center{
+	text-align: center;
+}
+
+.center p{
+	line-height: 5px;
+}
+
+a{
+	text-decoration: none; 
+}
+
+
+a:hover{
+	text-decoration: underline;
+	color: red;
+}
